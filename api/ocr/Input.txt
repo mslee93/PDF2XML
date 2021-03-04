@@ -1,0 +1,2 @@
+ABBYY Language List = https://www.ocr4linux.com/en:kb:documentation:list_languages
+ABBYY Extension List = [docx, doc, rtf, odt, pdf, htm, txt, xlsx, xlx, pptx, csv, fb2, epub, djvu]
